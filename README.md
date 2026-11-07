@@ -1,14 +1,14 @@
-# Hi, I’m Syamsul (Sam) Rozmey 👋
+# Hi, I'm Syamsul (Sam)
 
-I’m a Director, COO/CTO and GTM Technical Lead at [Radial Path](https://www.radialpath.com/), based in Newcastle, UK.
+I'm based in Newcastle. I like building things and learning how they work, especially AI tools and web apps.
 
-I work across B2B growth, product and technology, building and guiding AI-powered tools, websites and workflows. I’m interested in AI agents, developer experience and product-led growth.
+This is my personal account, where I share projects and experiments. For my work at [Radial Path](https://www.radialpath.com/), you can find me at [@syamsulrozmeyRP](https://github.com/syamsulrozmeyRP).
 
 ## Projects
 
-- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker) — an open-source AI emoji generator built with Next.js, Supabase, Clerk and Stripe.
-- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator) — an AI-assisted tool for estimating Webflow website projects.
+- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker): an open-source AI emoji generator built with Next.js, Supabase, Clerk and Stripe.
+- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator): a tool for estimating Webflow builds and migrations.
 
-## Let’s connect
+## Find me
 
 [LinkedIn](https://www.linkedin.com/in/srozmey/) · [X](https://twitter.com/syamsulrozmey) · [Email](mailto:syamsul.rozmey@gmail.com)
