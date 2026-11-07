@@ -1,14 +1,16 @@
-# Hi, I'm Syamsul (Sam)
+# Hi, I'm Sam
 
-I'm based in Newcastle. I like building things and learning how they work, especially AI tools and web apps.
+I'm based in Newcastle and I like making things for the web. This is where I share my side projects and experiments with AI.
 
-This is my personal account, where I share projects and experiments. For my work at [Radial Path](https://www.radialpath.com/), you can find me at [@syamsulrozmeyRP](https://github.com/syamsulrozmeyRP).
+I like taking a small idea and getting something working, then figuring out what to do with it next.
 
-## Projects
+## A couple of things I've built
 
-- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker): an open-source AI emoji generator built with Next.js, Supabase, Clerk and Stripe.
-- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator): a tool for estimating Webflow builds and migrations.
+- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker): an open-source tool for turning a description into an emoji.
+- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator): a tool for working out the likely cost of a Webflow build or migration.
 
-## Find me
+For my day-to-day work with the team at [Radial Path](https://www.radialpath.com/), head over to [@syamsulrozmeyRP](https://github.com/syamsulrozmeyRP).
+
+## Say hello
 
 [LinkedIn](https://www.linkedin.com/in/srozmey/) · [X](https://twitter.com/syamsulrozmey) · [Email](mailto:syamsul.rozmey@gmail.com)
