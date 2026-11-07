@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Syamsul Rozmey — COO at Radial Path and AI‑builder based in Newcastle, UK.
-- 👀 I’m interested in AI agents, developer UX, and product‑led growth for SaaS.
-- 🌱 I’m currently learning React/Next.js and deepening TypeScript with Supabase and Clerk.
-- I’m looking to collaborate on AI apps, workflow automation, and growth tooling.
-- 📫 How to reach me: X @syamsulrozmey ↗ · GitHub @syamsulrozmey · Email syamsul.rozmey@gmail.com.
+# Hi, I’m Syamsul (Sam) Rozmey 👋
 
-<!---
-syamsulrozmey/syamsulrozmey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Director, COO/CTO and GTM Technical Lead at [Radial Path](https://www.radialpath.com/), based in Newcastle, UK.
+
+I work across B2B growth, product and technology, building and guiding AI-powered tools, websites and workflows. I’m interested in AI agents, developer experience and product-led growth.
+
+## Projects
+
+- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker) — an open-source AI emoji generator built with Next.js, Supabase, Clerk and Stripe.
+- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator) — an AI-assisted tool for estimating Webflow website projects.
+
+## Let’s connect
+
+[LinkedIn](https://www.linkedin.com/in/srozmey/) · [X](https://twitter.com/syamsulrozmey) · [Email](mailto:syamsul.rozmey@gmail.com)
