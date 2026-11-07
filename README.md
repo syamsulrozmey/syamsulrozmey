@@ -2,15 +2,13 @@
 
 I'm based in Newcastle and I like making things for the web. This is where I share my side projects and experiments with AI.
 
-I like taking a small idea and getting something working, then figuring out what to do with it next.
+## A couple of projects
 
-## A couple of things I've built
+- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker): an open-source app that turns a text description into an emoji.
+- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator): a tool for estimating the cost of a Webflow build or migration.
 
-- [Emoji Maker](https://github.com/syamsulrozmey/emoji-maker): an open-source tool for turning a description into an emoji.
-- [Webflow Project Calculator](https://github.com/syamsulrozmey/webflow-project-calculator): a tool for working out the likely cost of a Webflow build or migration.
+Both repositories include setup instructions if you'd like to run them locally.
 
-For my day-to-day work with the team at [Radial Path](https://www.radialpath.com/), head over to [@syamsulrozmeyRP](https://github.com/syamsulrozmeyRP).
+For my day-to-day work with the team at [Radial Path](https://www.radialpath.com/), visit [@syamsulrozmeyRP](https://github.com/syamsulrozmeyRP).
 
-## Say hello
-
-[LinkedIn](https://www.linkedin.com/in/srozmey/) · [X](https://twitter.com/syamsulrozmey) · [Email](mailto:syamsul.rozmey@gmail.com)
+If you'd like to talk about a project, [send me an email](mailto:syamsul.rozmey@gmail.com). I'm also on [LinkedIn](https://www.linkedin.com/in/srozmey/) and [X](https://twitter.com/syamsulrozmey).
